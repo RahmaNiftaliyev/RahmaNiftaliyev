@@ -148,7 +148,7 @@ Here are some ideas to get you started:
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/rahmaniftaliyev/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
@@ -176,7 +176,7 @@ Here are some ideas to get you started:
 
 <hr/>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 * Credit: [RahmaNiftaliyev](https://github.com/RahmaNiftaliyev)

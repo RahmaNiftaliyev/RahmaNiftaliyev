@@ -161,7 +161,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/RahmaNiftaliyev"><img alt="Rahman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -170,7 +170,7 @@ Here are some ideas to get you started:
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+ 	
 	<a href="mailto:rahman.n1234567@@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/rahmaniftaliyev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>	
 </p>

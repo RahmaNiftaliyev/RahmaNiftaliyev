@@ -170,7 +170,6 @@ Here are some ideas to get you started:
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
- 	
 	<a href="mailto:rahman.n1234567@@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/rahmaniftaliyev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>	
 </p>

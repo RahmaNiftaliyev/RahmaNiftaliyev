@@ -19,11 +19,17 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=8DF733&center=true&vCenter=true&multiline=true&width=850&height=200&lines=Senior+Software+Developer;Experienced+In+React+Redux+js+Toolkit;Php+Python+C%2B%2B+Java+programming+skills;Backend+C%23+ASP.NET+Core+;Highly+skilled+DB's+%3D%3E+MySql+MsSql+Mongo+DB+Cassandra+Firebase+)](https://git.io/typing-svg)
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 <hr/>
 <h4 align="center">I am a Senior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## By the way here are some of my statistics 🚀
 ![Rahman Niftaliyev's](https://github-readme-stats.vercel.app/api?username=RahmaNiftaliyev&show_icons=true&theme=tokyonight)
@@ -34,6 +40,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🛠️ My Skills
 

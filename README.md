@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ## By the way here are some of my statistics 🚀
-![Rahman Niftaliyev's](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+![Rahman Niftaliyev's](https://github-readme-stats.vercel.app/api?username=RahmaNiftaliyev&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmaNiftaliyev&theme=tokyonight" alt="mystreak"/>
+![Rahman Niftaliyev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmaNiftaliyev&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning android in dicoding.com with kotlin
 

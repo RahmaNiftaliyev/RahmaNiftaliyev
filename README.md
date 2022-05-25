@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <hr/>
-<h4 align="center">Experienced web developer with a strong background in developing award-winning applications for a diverse clientele. 5+ years of industry experience includes programming, debugging, and wireframes. Received 80%+ experience scores on every web application built for Software.</h4>
+<h4 align="center">Experienced web developer with a strong background in developing award-winning applications for a diverse clientele.highly experienced in programming, debugging, and wireframes. Received 80%+ experience scores on every web application built for Software.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 

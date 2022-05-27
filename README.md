@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+
+
+<a href="https://app.codiga.io/hub/user/github/RahmaNiftaliyev">
+   <img src="https://api.codiga.io/public/badge/user/github/RahmaNiftaliyev?style=dark" alt="codiga badge" />
+</a>
+
+
+
 <hr/>
 <h4 align="center">Experienced web developer with a strong background in developing award-winning applications for a diverse clientele.highly experienced in programming, debugging, and wireframes. Received 80%+ experience scores on every web application built for Software.</h4>
 <br>

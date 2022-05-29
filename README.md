@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
-
-<a href="https://app.codiga.io/hub/user/github/RahmaNiftaliyev">
-   <img src="https://api.codiga.io/public/badge/user/github/RahmaNiftaliyev?style=dark" alt="codiga badge" />
-</a>
-
+#Codiga account stats
+[![Code Grade](https://api.codiga.io/project/33682/score/svg)](https://www.codiga.io)
+[![Code Grade](https://api.codiga.io/project/33682/status/svg)](https://www.codiga.io)
 
 
 <hr/>

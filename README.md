@@ -207,7 +207,6 @@ Here are some ideas to get you started:
 <hr/>
 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 * Credit: [RahmaNiftaliyev](https://github.com/RahmaNiftaliyev)
 * Last Edited on: 4/30/2022

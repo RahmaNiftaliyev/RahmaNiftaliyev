@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://app.codiga.io/hub/user/github/RahmaNiftaliyev">
-   <img src="https://api.codiga.io/public/badge/user/github/RahmaNiftaliyev?style=light" alt="codiga badge" />
+   <img src="https://api.codiga.io/public/badge/user/github/RahmaNiftaliyev?style=light" alt="codiga badge" width="800" />
 </a>
 </p>
 

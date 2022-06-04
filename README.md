@@ -210,7 +210,7 @@ Here are some ideas to get you started:
 
 
 ## My Contribution snake
-![Contribution snake example](https://github.com/<RahmaNiftaliyev>/<RahmaNiftaliyev>/blob/output/github-contribution-grid-snake.svg)
+![Contribution snake example](https://github.com/<rahmaniftaliyev>/<rahmaniftaliyev>/blob/output/github-contribution-grid-snake.svg)
 
 
 * Credit: [RahmaNiftaliyev](https://github.com/RahmaNiftaliyev)

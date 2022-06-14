@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/last_soul"><img src="https://api.daily.dev/devcards/2f0a6a80eae349e3b3638062ac6d2c13.png?r=dmu" width="200" alt="Rahman's Dev Card"/></a>
 
-<h1 align="center">Hi , I'm Rahman Niftaliyev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Rahman Niftaliyev  <a href="https://app.daily.dev/last_soul"><img src="https://api.daily.dev/devcards/2f0a6a80eae349e3b3638062ac6d2c13.png?r=dmu" width="200" alt="Rahman's Dev Card"/></a>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 

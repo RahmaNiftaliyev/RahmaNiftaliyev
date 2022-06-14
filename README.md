@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/last_soul"><img src="https://api.daily.dev/devcards/2f0a6a80eae349e3b3638062ac6d2c13.png?r=dmu" width="200" alt="Rahman's Dev Card"/></a>
+<a href="https://app.daily.dev/last_soul"><img src="https://api.daily.dev/devcards/2f0a6a80eae349e3b3638062ac6d2c13.png?r=dmu" width="350" alt="Rahman's Dev Card"/></a>
 
 
 

@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://app.daily.dev/last_soul"><img src="https://api.daily.dev/devcards/2f0a6a80eae349e3b3638062ac6d2c13.png?r=dmu" width="200" alt="Rahman's Dev Card"/></a>
+
 <h1 align="center">Hi , I'm Rahman Niftaliyev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="https://app.daily.dev/last_soul"><img src="https://api.daily.dev/devcards/2f0a6a80eae349e3b3638062ac6d2c13.png?r=dmu" width="200" alt="Rahman's Dev Card"/></a>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=8DF733&center=true&vCenter=true&multiline=true&width=850&height=200&lines=Senior+Software+Developer;Experienced+In+React+Redux+js+Toolkit;Php+Python+C%2B%2B+Java+programming+skills;Backend+C%23+ASP.NET+Core+;Highly+skilled+DB's+%3D%3E+MySql+MsSql+Mongo+DB+Cassandra+Firebase+)](https://git.io/typing-svg)

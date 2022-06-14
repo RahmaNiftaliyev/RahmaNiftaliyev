@@ -1,19 +1,5 @@
 ## Hi there 👋  I'm Rahman Niftaliyev 
 
-<!--
-**RahmaNiftaliyev/RahmaNiftaliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...programming skills
-- 🌱 I’m currently learning ...data structure 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...what you want
-- 📫 How to reach me: ...info@rahmanniftaliyev.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <a href="https://app.daily.dev/last_soul"><img src="https://api.daily.dev/devcards/2f0a6a80eae349e3b3638062ac6d2c13.png?r=dmu" width="350" alt="Rahman's Dev Card"/></a>

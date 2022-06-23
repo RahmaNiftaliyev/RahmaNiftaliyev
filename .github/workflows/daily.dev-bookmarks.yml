@@ -1,4 +1,3 @@
-          <!--  daily.dev BOOKMARKS:START -->
           
 name: daily.dev Bookmarks
 on:
@@ -17,6 +16,4 @@ jobs:
         with:
           comment_tag_name: "daily.dev BOOKMARKS"
           feed_list: "https://api.daily.dev/rss/b/72e3805b-02a3-4c98-bed8-3386ac5d9a05"
-          
-  
-          <!--  daily.dev BOOKMARKS:END -->
+

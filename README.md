@@ -17,8 +17,8 @@
 
 ## project score and status scores
 
-[![Code Grade](https://api.codiga.io/project/33682/score/svg)](https://www.codiga.io)
-[![Code Grade](https://api.codiga.io/project/33682/status/svg)](https://www.codiga.io)
+[![Code Grade](https://www.codewars.com/users/RahmaNiftaliyev/badges/large)
+
 
 <p>
 <a href="https://app.codiga.io/hub/user/github/RahmaNiftaliyev">

@@ -1427,3 +1427,8 @@ Showcase your skills on your Github readme or resumé with ease ✨
 # Give A Star ⭐
 
 You can also give this repository a star to show more people and they can use this repository
+
+
+
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->

@@ -17,7 +17,7 @@ Turing
 
 1662811606044\_2576032\_rahman.dev.niftaliyev.DOCX
 
-![](https://storage.googleapis.com/turing_developers/avatar/1662815038634_WhatsApp%20Image%202022-09-10%20at%205.03.32%20PM.jpeg)
+
 
 ## Rahman Niftaliyev
 

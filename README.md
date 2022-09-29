@@ -12,6 +12,7 @@ opportunity to develop management skills further. Seasoned software developer wi
 provide outstanding cost efficiency. Seeking an exciting position with the responsibility of
 mentoring and training others in best practices.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09c60c51-5292-4c59-b056-948971fcad00/deploy-status)](https://app.netlify.com/sites/codeface/deploys)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tangerine-stroopwafel-584450.netlify.app/)

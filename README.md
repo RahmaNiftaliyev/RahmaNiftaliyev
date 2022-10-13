@@ -3,7 +3,9 @@
 
 
 ## 🚀 Senior software developer
-https://api.codiga.io/public/badge/user/github/rahmaniftaliyev?style=dark
+
+
+<img src="https://api.codiga.io/public/badge/user/github/rahmaniftaliyev?style=dark" />
 
 
 Well-educated and qualified software developer providing [enough :-)] years of expertise. Focused and

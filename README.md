@@ -3,6 +3,9 @@
 
 
 ## 🚀 Senior software developer
+https://api.codiga.io/public/badge/user/github/rahmaniftaliyev?style=dark
+
+
 Well-educated and qualified software developer providing [enough :-)] years of expertise. Focused and
 driven with the capability to mentor employees and lead gifted teams. Desires a challenge that
 promotes software performance tuning. Knowledgeable developer professional offering practical

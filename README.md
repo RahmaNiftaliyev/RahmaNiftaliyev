@@ -27,3 +27,6 @@ mentoring and training others in best practices.
 Javascript, HTML, CSS, React, Redux, ASP.NET, Django, Java Spring boot
 MySql, MsSql, Oracle
 
+## My Contribution snake
+![Contribution snake example](https://github.com/<RahmaNiftaliyev>/<RahmaNiftaliyev>/blob/output/github-contribution-grid-snake.svg)
+

@@ -28,5 +28,5 @@ Javascript, HTML, CSS, React, Redux, ASP.NET, Django, Java Spring boot
 MySql, MsSql, Oracle
 
 ## My Contribution snake
-![Contribution snake example](https://github.com/RahmaNiftaliyev/RahmaNiftaliyev/github-contribution-grid-snake.svg)
+![Contribution snake example](https://github.com/RahmaNiftaliyev/RahmaNiftaliyev/blob/main/github-contribution-grid-snake.svg)
 

@@ -128,7 +128,7 @@ to learn new technologies and tools to stay current in the industry.
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahmaniftaliyev&theme=nord&no-frame=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=rahmaniftaliyev&theme=gruvbox&no-frame=true&margin-w=10&column=7" />
 
 
 

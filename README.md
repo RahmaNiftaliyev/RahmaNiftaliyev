@@ -30,6 +30,8 @@ MySql, MsSql, Oracle
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rahmaniftaliyev)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahmaniftaliyev=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![wakatime](https://wakatime.com/badge/user/84b46ad6-f0fa-463b-91b1-741fdcdd4f93.svg)](https://wakatime.com/@84b46ad6-f0fa-463b-91b1-741fdcdd4f93)
 
 ## My Contribution snake

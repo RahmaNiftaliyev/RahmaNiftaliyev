@@ -45,7 +45,7 @@ and I am a team player with excellent communication skills. I am always eager to
 
 
 
-## Wakatime
+## Wakatime data
 [![wakatime](https://wakatime.com/badge/user/84b46ad6-f0fa-463b-91b1-741fdcdd4f93.svg)](https://wakatime.com/@84b46ad6-f0fa-463b-91b1-741fdcdd4f93)
 
 ### 📊 Contribution Stats

@@ -29,6 +29,16 @@ mentoring and training others in best practices.
 ## Wakatime
 [![wakatime](https://wakatime.com/badge/user/84b46ad6-f0fa-463b-91b1-741fdcdd4f93.svg)](https://wakatime.com/@84b46ad6-f0fa-463b-91b1-741fdcdd4f93)
 
+### 📊 Contribution Stats
+
+<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rahmaniftaliyev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+<p align="center"> 
+
+<img src="https://komarev.com/ghpvc/?username=rahmaniftaliyev" alt="Berkeli's Profile View Counter"/>
+
+</p>
+
 
 ## 🛠️ My Skills
 -------------------

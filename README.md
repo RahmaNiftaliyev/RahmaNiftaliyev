@@ -17,10 +17,10 @@ provide outstanding cost efficiency. Seeking an exciting position with the respo
 mentoring and training others in best practices.
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tangerine-stroopwafel-584450.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahman-n-144266195/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NiftalievRahman)
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+
+
+
 
 ## Wakatime
 [![wakatime](https://wakatime.com/badge/user/84b46ad6-f0fa-463b-91b1-741fdcdd4f93.svg)](https://wakatime.com/@84b46ad6-f0fa-463b-91b1-741fdcdd4f93)
@@ -43,4 +43,10 @@ MySql, MsSql, Oracle
 
 ## My Contribution snake
 ![Contribution snake example](https://github.com/RahmaNiftaliyev/RahmaNiftaliyev/blob/main/github-contribution-grid-snake.svg)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tangerine-stroopwafel-584450.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahman-n-144266195/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NiftalievRahman)
 

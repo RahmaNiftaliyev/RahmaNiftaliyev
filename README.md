@@ -41,7 +41,7 @@ to learn new technologies and tools to stay current in the industry.
 ## Wakatime data
 [![wakatime](https://wakatime.com/badge/user/84b46ad6-f0fa-463b-91b1-741fdcdd4f93.svg)](https://wakatime.com/@84b46ad6-f0fa-463b-91b1-741fdcdd4f93)
 -------------------
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@noobdev/fdc4cb0d-5d34-4bb8-b1d7-f5b7811fa13a.png" width="660" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@noobdev/fdc4cb0d-5d34-4bb8-b1d7-f5b7811fa13a.png" width="1012" /></a>
 
 
 

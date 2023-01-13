@@ -17,7 +17,23 @@ provide outstanding cost efficiency. Seeking an exciting position with the respo
 mentoring and training others in best practices.
 
 
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+  <p align="center">🏆  GitHub Stat Trophies</p>
+  
+  
+  <p align="center">
+  <a href="https://github.com/rahmaniftaliyev/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/rahmaniftaliyev/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/rahmaniftaliyev/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/rahmaniftaliyev/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/rahmaniftaliyev/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/rahmaniftaliyev/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/rahmaniftaliyev/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/rahmaniftaliyev/github-profile-trophy"/> 
+  </a>
+</p>
 
 
 

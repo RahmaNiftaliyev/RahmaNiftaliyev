@@ -1,5 +1,11 @@
 
-# Hi, I'm Rahman Niftaliyev! 👋
+
+<div align="center">
+    <img src="GitHub.gif" height="100" />
+    <p>Loading</p>
+</div>
+# Hi, I'm Rahman Niftaliyev! 👋   
+
 
 
 ## 🚀 Senior software developer

@@ -27,6 +27,8 @@ mentoring and training others in best practices.
 Javascript, HTML, CSS, React, Redux, ASP.NET, Django, Java Spring boot
 MySql, MsSql, Oracle
 
+[![wakatime](https://wakatime.com/badge/user/84b46ad6-f0fa-463b-91b1-741fdcdd4f93.svg)](https://wakatime.com/@84b46ad6-f0fa-463b-91b1-741fdcdd4f93)
+
 ## My Contribution snake
 ![Contribution snake example](https://github.com/RahmaNiftaliyev/RahmaNiftaliyev/blob/main/github-contribution-grid-snake.svg)
 

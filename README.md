@@ -34,16 +34,7 @@ MySql, MsSql, Oracle
   <img width="660" src="https://github-profile-trophy.vercel.app/?username=rahmaniftaliyev&theme=juicyfresh">
 </p>
 
-##  Common github rates
-<p align="center">
-  <img width="110" src="https://user-images.githubusercontent.com/6661165/92317141-80ebe700-f038-11ea-8501-4015bfbb2cf4.png">
-</p>
 
-
-##  Common github rates
-<p align="center">
-  <img width="110" src="https://user-images.githubusercontent.com/6661165/92317141-80ebe700-f038-11ea-8501-4015bfbb2cf4.png">
-</p>
 
 
 

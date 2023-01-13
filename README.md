@@ -24,9 +24,9 @@ Vue.js and Svelte. I have built complex applications that are easy to navigate v
 back-end side, I have worked with a variety of technologies such as ASP.NET, JAVA Spring Boot, NODE.JS, PYTHON, and DJANGO.
 I have developed and deployed high-performance APIs and services that are scalable, secure, and easy to maintain. 
 I am proficient in Agile software development methodologies and I am comfortable in working with Git version control and JIRA.
-In addition to my technical skills, I have experience in working with microservices architecture, cloud platforms like AWS, Azure, and GCP. 
-I am familiar with best practices in cloud-based software development, deployment and scaling. I have hands-on experience with 
-various database management systems like MongoDB, MySQL, PostgreSQL and Oracle, so I am able to create, maintain and optimize 
+In addition to my technical skills, I have experience in working with microservices architecture, cloud platforms like AWS, Azure, 
+and GCP. I am familiar with best practices in cloud-based software development, deployment and scaling. I have hands-on experience 
+with  various database management systems like MongoDB, MySQL, PostgreSQL and Oracle, so I am able to create, maintain and optimize 
 databases to ensure optimal performance and stability. I am a self-starter who thrives in a fast-paced, deadline-driven environment. 
 I am able to manage multiple projects simultaneously and I am a team player with excellent communication skills. I am always eager 
 to learn new technologies and tools to stay current in the industry.

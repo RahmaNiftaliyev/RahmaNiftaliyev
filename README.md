@@ -22,6 +22,8 @@ mentoring and training others in best practices.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahman-n-144266195/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NiftalievRahman)
 
+## Wakatime
+[![wakatime](https://wakatime.com/badge/user/84b46ad6-f0fa-463b-91b1-741fdcdd4f93.svg)](https://wakatime.com/@84b46ad6-f0fa-463b-91b1-741fdcdd4f93)
 
 ## 🛠 Skills
 Javascript, HTML, CSS, React, Redux, ASP.NET, Django, Java Spring boot
@@ -29,11 +31,24 @@ MySql, MsSql, Oracle
 
 ##  Common github rates
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=rahmaniftaliyev)](https://github.com/rahmaniftaliyev/github-profile-trophy)
+  <img width="110" src="https://github-profile-trophy.vercel.app/?username=rahmaniftaliyev-ma&theme=juicyfresh">
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahmaniftaliyev&theme=onedark)](https://github.com/rahmaniftaliyev/github-profile-trophy)
 
-[![wakatime](https://wakatime.com/badge/user/84b46ad6-f0fa-463b-91b1-741fdcdd4f93.svg)](https://wakatime.com/@84b46ad6-f0fa-463b-91b1-741fdcdd4f93)
+##  Common github rates
+<p align="center">
+  <img width="110" src="https://user-images.githubusercontent.com/6661165/92317141-80ebe700-f038-11ea-8501-4015bfbb2cf4.png">
+</p>
+
+
+##  Common github rates
+<p align="center">
+  <img width="110" src="https://user-images.githubusercontent.com/6661165/92317141-80ebe700-f038-11ea-8501-4015bfbb2cf4.png">
+</p>
+
+
+
+
+
 
 ## My Contribution snake
 ![Contribution snake example](https://github.com/RahmaNiftaliyev/RahmaNiftaliyev/blob/main/github-contribution-grid-snake.svg)

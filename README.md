@@ -43,7 +43,7 @@ mentoring and training others in best practices.
 ## 🛠️ My Skills
 -------------------
 ### Programming languages:
-&emsp;
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
@@ -56,7 +56,7 @@ mentoring and training others in best practices.
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
 ### Frontend development:
-&emsp;
+
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
@@ -67,7 +67,7 @@ mentoring and training others in best practices.
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 ### Misc tools:
-&emsp;
+
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)

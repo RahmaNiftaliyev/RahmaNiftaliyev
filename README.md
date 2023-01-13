@@ -14,29 +14,22 @@
 
 
 ```js
-I am a highly skilled and experienced Full Stack Developer with several years of experience in developing and deploying robust, scalable, and high-performance 
-
-applications using a variety of technologies. I am confident that my skills and qualifications align perfectly with the requirements of this role, and I am excited 
-
-about the opportunity to contribute to the success of your company. Throughout my career, I have gained extensive experience working with REACT for building 
-
-responsive, dynamic user interfaces. I have a deep understanding of the framework, and I am well-versed in creating reusable components and optimizing performance.
-
-Additionally, I have experience with other modern front-end frameworks such as Angular, Vue.js and Svelte. I have built complex applications that are easy to navigate
-
-visually appealing and easy to use. On the back-end side, I have worked with a variety of technologies such as ASP.NET, JAVA Spring Boot, NODE.JS, PYTHON, and DJANGO.
-
-I have developed and deployed high-performance APIs and services that are scalable, secure, and easy to maintain. I am proficient in Agile software development
-
-methodologies and I am comfortable in working with Git version control and JIRA. In addition to my technical skills, I have experience in working with microservices
-
-architecture, cloud platforms like AWS, Azure, and GCP. I am familiar with best practices in cloud-based software development, deployment and scaling. I have hands-on
-
-experience with various database management systems like MongoDB, MySQL, PostgreSQL and Oracle, so I am able to create, maintain and optimize databases to ensure
-
-optimal performance and stability. I am a self-starter who thrives in a fast-paced, deadline-driven environment. I am able to manage multiple projects simultaneously
-
-and I am a team player with excellent communication skills. I am always eager to learn new technologies and tools to stay current in the industry.
+I am a highly skilled and experienced Full Stack Developer with several years of experience in developing and deploying robust, 
+scalable, and high-performance applications using a variety of technologies. I am confident that my skills and qualifications 
+align perfectly with the requirements of this role, and I am excited about the opportunity to contribute to the success of your 
+company. Throughout my career, I have gained extensive experience working with REACT for building 
+responsive, dynamic user interfaces. I have a deep understanding of the framework, and I am well-versed in creating reusable 
+components and optimizing performance.Additionally, I have experience with other modern front-end frameworks such as Angular, 
+Vue.js and Svelte. I have built complex applications that are easy to navigate visually appealing and easy to use. On the 
+back-end side, I have worked with a variety of technologies such as ASP.NET, JAVA Spring Boot, NODE.JS, PYTHON, and DJANGO.
+I have developed and deployed high-performance APIs and services that are scalable, secure, and easy to maintain. 
+I am proficient in Agile software development methodologies and I am comfortable in working with Git version control and JIRA.
+In addition to my technical skills, I have experience in working with microservices architecture, cloud platforms like AWS, Azure, and GCP. 
+I am familiar with best practices in cloud-based software development, deployment and scaling. I have hands-on experience with 
+various database management systems like MongoDB, MySQL, PostgreSQL and Oracle, so I am able to create, maintain and optimize 
+databases to ensure optimal performance and stability. I am a self-starter who thrives in a fast-paced, deadline-driven environment. 
+I am able to manage multiple projects simultaneously and I am a team player with excellent communication skills. I am always eager 
+to learn new technologies and tools to stay current in the industry.
 ```
 
 

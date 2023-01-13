@@ -56,6 +56,7 @@ mentoring and training others in best practices.
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
 
+-------------------
 ### Frontend development:
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -68,6 +69,7 @@ mentoring and training others in best practices.
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 
+-------------------
 ### Misc tools:
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
@@ -80,13 +82,14 @@ mentoring and training others in best practices.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
+-------------------
 ### Services & Frameworks: 
 
 ![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 
-
+-------------------
 ### Databases:
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
@@ -95,6 +98,7 @@ mentoring and training others in best practices.
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
+-------------------
 ### SRE & DevOps:
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
@@ -107,7 +111,7 @@ mentoring and training others in best practices.
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
 
-
+-------------------
 ### Common Github Rates
 
 <br />

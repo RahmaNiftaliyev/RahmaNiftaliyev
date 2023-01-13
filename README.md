@@ -41,6 +41,10 @@ to learn new technologies and tools to stay current in the industry.
 ## Wakatime data
 [![wakatime](https://wakatime.com/badge/user/84b46ad6-f0fa-463b-91b1-741fdcdd4f93.svg)](https://wakatime.com/@84b46ad6-f0fa-463b-91b1-741fdcdd4f93)
 
+.. image:: https://wakatime.com/share/@noobdev/fa34f1f1-cce8-4e80-96cb-6f38e44b617b.png
+    :target: https://wakatime.com/
+
+
 ### 📊 Contribution Stats
 
 <img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rahmaniftaliyev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />

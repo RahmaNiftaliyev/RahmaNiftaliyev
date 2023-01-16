@@ -128,7 +128,7 @@ to learn new technologies and tools to stay current in the industry.
 ![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
 
 -------------------
-### Common Github Rates
+### Common Github Rates of Last Year
 
 <br />
 
